@@ -1,0 +1,76 @@
+C:\Users\stud.KIT\Downloads\OOOТехносервис\bin\Debug\OOOТехносервис.exe.config
+C:\Users\stud.KIT\Downloads\OOOТехносервис\bin\Debug\OOOТехносервис.exe
+C:\Users\stud.KIT\Downloads\OOOТехносервис\bin\Debug\OOOТехносервис.pdb
+C:\Users\stud.KIT\Downloads\OOOТехносервис\obj\Debug\OOOТехносервис.csproj.AssemblyReference.cache
+C:\Users\stud.KIT\Downloads\OOOТехносервис\obj\Debug\OOOТехносервис.csproj.SuggestedBindingRedirects.cache
+C:\Users\stud.KIT\Downloads\OOOТехносервис\obj\Debug\OOOТехносервис.Properties.Resources.resources
+C:\Users\stud.KIT\Downloads\OOOТехносервис\obj\Debug\OOOТехносервис.csproj.GenerateResource.cache
+C:\Users\stud.KIT\Downloads\OOOТехносервис\obj\Debug\OOOТехносервис.csproj.CoreCompileInputs.cache
+C:\Users\stud.KIT\Downloads\OOOТехносервис\obj\Debug\OOOТехносервис.exe
+C:\Users\stud.KIT\Downloads\OOOТехносервис\obj\Debug\OOOТехносервис.pdb
+C:\Users\stud.KIT\Downloads\Program\OOOТехносервис\bin\Debug\OOOТехносервис.exe.config
+C:\Users\stud.KIT\Downloads\Program\OOOТехносервис\bin\Debug\OOOТехносервис.exe
+C:\Users\stud.KIT\Downloads\Program\OOOТехносервис\bin\Debug\OOOТехносервис.pdb
+C:\Users\stud.KIT\Downloads\Program\OOOТехносервис\bin\Debug\EntityFramework.dll
+C:\Users\stud.KIT\Downloads\Program\OOOТехносервис\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\stud.KIT\Downloads\Program\OOOТехносервис\bin\Debug\EntityFramework.xml
+C:\Users\stud.KIT\Downloads\Program\OOOТехносервис\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\stud.KIT\Downloads\Program\OOOТехносервис\obj\Debug\OOOТехносервис.csproj.AssemblyReference.cache
+C:\Users\stud.KIT\Downloads\Program\OOOТехносервис\obj\Debug\OOOТехносервис.csproj.SuggestedBindingRedirects.cache
+C:\Users\stud.KIT\Downloads\Program\OOOТехносервис\obj\Debug\OOOТехносервис.Properties.Resources.resources
+C:\Users\stud.KIT\Downloads\Program\OOOТехносервис\obj\Debug\OOOТехносервис.csproj.GenerateResource.cache
+C:\Users\stud.KIT\Downloads\Program\OOOТехносервис\obj\Debug\OOOТехносервис.csproj.CoreCompileInputs.cache
+C:\Users\stud.KIT\Downloads\Program\OOOТехносервис\obj\Debug\OOOТехносервис.csproj.CopyComplete
+C:\Users\stud.KIT\Downloads\Program\OOOТехносервис\obj\Debug\OOOТехносервис.exe
+C:\Users\stud.KIT\Downloads\Program\OOOТехносервис\obj\Debug\OOOТехносервис.pdb
+C:\Users\stud.KIT\Downloads\DE\Подготовка к ДЭ\Program\OOOТехносервис\bin\Debug\OOOТехносервис.exe.config
+C:\Users\stud.KIT\Downloads\DE\Подготовка к ДЭ\Program\OOOТехносервис\bin\Debug\OOOТехносервис.exe
+C:\Users\stud.KIT\Downloads\DE\Подготовка к ДЭ\Program\OOOТехносервис\bin\Debug\OOOТехносервис.pdb
+C:\Users\stud.KIT\Downloads\DE\Подготовка к ДЭ\Program\OOOТехносервис\bin\Debug\EntityFramework.dll
+C:\Users\stud.KIT\Downloads\DE\Подготовка к ДЭ\Program\OOOТехносервис\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\stud.KIT\Downloads\DE\Подготовка к ДЭ\Program\OOOТехносервис\bin\Debug\EntityFramework.xml
+C:\Users\stud.KIT\Downloads\DE\Подготовка к ДЭ\Program\OOOТехносервис\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\stud.KIT\Downloads\DE\Подготовка к ДЭ\Program\OOOТехносервис\obj\Debug\OOOТехносервис.csproj.AssemblyReference.cache
+C:\Users\stud.KIT\Downloads\DE\Подготовка к ДЭ\Program\OOOТехносервис\obj\Debug\OOOТехносервис.csproj.SuggestedBindingRedirects.cache
+C:\Users\stud.KIT\Downloads\DE\Подготовка к ДЭ\Program\OOOТехносервис\obj\Debug\OOOТехносервис.Properties.Resources.resources
+C:\Users\stud.KIT\Downloads\DE\Подготовка к ДЭ\Program\OOOТехносервис\obj\Debug\OOOТехносервис.csproj.GenerateResource.cache
+C:\Users\stud.KIT\Downloads\DE\Подготовка к ДЭ\Program\OOOТехносервис\obj\Debug\OOOТехносервис.csproj.CoreCompileInputs.cache
+C:\Users\stud.KIT\Downloads\DE\Подготовка к ДЭ\Program\OOOТехносервис\obj\Debug\OOOТехносервис.csproj.CopyComplete
+C:\Users\stud.KIT\Downloads\DE\Подготовка к ДЭ\Program\OOOТехносервис\obj\Debug\OOOТехносервис.exe
+C:\Users\stud.KIT\Downloads\DE\Подготовка к ДЭ\Program\OOOТехносервис\obj\Debug\OOOТехносервис.pdb
+C:\Users\stud.KIT\Downloads\DE\Подготовка к ДЭ\Program\OOOТехносервис\obj\Debug\OOOТехносервис.View.ListRequests.resources
+C:\Users\stud.KIT\Downloads\DE\Подготовка к ДЭ\Program\OOOТехносервис\obj\Debug\OOOТехносервис.Auth_Form.resources
+C:\Users\stud.KIT\Downloads\DE\OOOТехносервис\obj\Debug\OOOТехносервис.csproj.AssemblyReference.cache
+C:\Users\stud.KIT\Downloads\DE\OOOТехносервис\obj\Debug\OOOТехносервис.csproj.SuggestedBindingRedirects.cache
+C:\Users\stud.KIT\Downloads\DE\OOOТехносервис\obj\Debug\OOOТехносервис.Properties.Resources.resources
+C:\Users\stud.KIT\Downloads\DE\OOOТехносервис\obj\Debug\OOOТехносервис.Auth_Form.resources
+C:\Users\stud.KIT\Downloads\DE\OOOТехносервис\obj\Debug\OOOТехносервис.View.ListRequests.resources
+C:\Users\stud.KIT\Downloads\DE\OOOТехносервис\obj\Debug\OOOТехносервис.csproj.GenerateResource.cache
+C:\Users\stud.KIT\Downloads\DE\OOOТехносервис\obj\Debug\OOOТехносервис.csproj.CoreCompileInputs.cache
+C:\Users\stud.KIT\Downloads\DE\OOOТехносервис\obj\Debug\OOOТехносервис.exe
+C:\Users\stud.KIT\Downloads\DE\OOOТехносервис\obj\Debug\OOOТехносервис.pdb
+C:\Users\stud.KIT\Downloads\DE\OOOТехносервис\bin\Debug\OOOТехносервис.exe.config
+C:\Users\stud.KIT\Downloads\DE\OOOТехносервис\bin\Debug\OOOТехносервис.exe
+C:\Users\stud.KIT\Downloads\DE\OOOТехносервис\bin\Debug\OOOТехносервис.pdb
+C:\Users\stud.KIT\Downloads\DE\OOOТехносервис\bin\Debug\EntityFramework.dll
+C:\Users\stud.KIT\Downloads\DE\OOOТехносервис\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\stud.KIT\Downloads\DE\OOOТехносервис\bin\Debug\EntityFramework.xml
+C:\Users\stud.KIT\Downloads\DE\OOOТехносервис\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\stud.KIT\Downloads\DE\OOOТехносервис\obj\Debug\OOOТехносервис.csproj.CopyComplete
+C:\Users\stud.KIT\Downloads\DE\DE\backup\OOOТехносервис\bin\Debug\OOOТехносервис.exe.config
+C:\Users\stud.KIT\Downloads\DE\DE\backup\OOOТехносервис\bin\Debug\OOOТехносервис.exe
+C:\Users\stud.KIT\Downloads\DE\DE\backup\OOOТехносервис\bin\Debug\OOOТехносервис.pdb
+C:\Users\stud.KIT\Downloads\DE\DE\backup\OOOТехносервис\bin\Debug\EntityFramework.dll
+C:\Users\stud.KIT\Downloads\DE\DE\backup\OOOТехносервис\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\stud.KIT\Downloads\DE\DE\backup\OOOТехносервис\bin\Debug\EntityFramework.xml
+C:\Users\stud.KIT\Downloads\DE\DE\backup\OOOТехносервис\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\stud.KIT\Downloads\DE\DE\backup\OOOТехносервис\obj\Debug\OOOТехносервис.csproj.AssemblyReference.cache
+C:\Users\stud.KIT\Downloads\DE\DE\backup\OOOТехносервис\obj\Debug\OOOТехносервис.csproj.SuggestedBindingRedirects.cache
+C:\Users\stud.KIT\Downloads\DE\DE\backup\OOOТехносервис\obj\Debug\OOOТехносервис.Properties.Resources.resources
+C:\Users\stud.KIT\Downloads\DE\DE\backup\OOOТехносервис\obj\Debug\OOOТехносервис.Auth_Form.resources
+C:\Users\stud.KIT\Downloads\DE\DE\backup\OOOТехносервис\obj\Debug\OOOТехносервис.View.ListRequests.resources
+C:\Users\stud.KIT\Downloads\DE\DE\backup\OOOТехносервис\obj\Debug\OOOТехносервис.csproj.GenerateResource.cache
+C:\Users\stud.KIT\Downloads\DE\DE\backup\OOOТехносервис\obj\Debug\OOOТехносервис.csproj.CoreCompileInputs.cache
+C:\Users\stud.KIT\Downloads\DE\DE\backup\OOOТехносервис\obj\Debug\OOOТехносервис.csproj.CopyComplete
+C:\Users\stud.KIT\Downloads\DE\DE\backup\OOOТехносервис\obj\Debug\OOOТехносервис.exe
+C:\Users\stud.KIT\Downloads\DE\DE\backup\OOOТехносервис\obj\Debug\OOOТехносервис.pdb

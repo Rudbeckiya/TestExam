@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище DBDExamTestModelContainer" CdmEntityContainer="DExamDBTestEntities">
+    <EntitySetMapping Name="Equipment">
+      <EntityTypeMapping TypeName="DBDExamTestModel.Equipment">
+        <MappingFragment StoreEntitySet="Equipment">
+          <ScalarProperty Name="EquipmentID" ColumnName="EquipmentID" />
+          <ScalarProperty Name="EquipmentName" ColumnName="EquipmentName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Priority">
+      <EntityTypeMapping TypeName="DBDExamTestModel.Priority">
+        <MappingFragment StoreEntitySet="Priority">
+          <ScalarProperty Name="PriorityID" ColumnName="PriorityID" />
+          <ScalarProperty Name="PriorityName" ColumnName="PriorityName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Problem">
+      <EntityTypeMapping TypeName="DBDExamTestModel.Problem">
+        <MappingFragment StoreEntitySet="Problem">
+          <ScalarProperty Name="ProblemID" ColumnName="ProblemID" />
+          <ScalarProperty Name="ProblemName" ColumnName="ProblemName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Request">
+      <EntityTypeMapping TypeName="DBDExamTestModel.Request">
+        <MappingFragment StoreEntitySet="Request">
+          <ScalarProperty Name="RequestID" ColumnName="RequestID" />
+          <ScalarProperty Name="RequestDate" ColumnName="RequestDate" />
+          <ScalarProperty Name="RequestEquipmentID" ColumnName="RequestEquipmentID" />
+          <ScalarProperty Name="RequestProblemID" ColumnName="RequestProblemID" />
+          <ScalarProperty Name="RequestUserID" ColumnName="RequestUserID" />
+          <ScalarProperty Name="RequestDescription" ColumnName="RequestDescription" />
+          <ScalarProperty Name="RequestStatusID" ColumnName="RequestStatusID" />
+          <ScalarProperty Name="RequestTime" ColumnName="RequestTime" />
+          <ScalarProperty Name="RequestMasterID" ColumnName="RequestMasterID" />
+          <ScalarProperty Name="RequestPriorityID" ColumnName="RequestPriorityID" />
+          <ScalarProperty Name="RequestStageID" ColumnName="RequestStageID" />
+          <ScalarProperty Name="RequestComment" ColumnName="RequestComment" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Role">
+      <EntityTypeMapping TypeName="DBDExamTestModel.Role">
+        <MappingFragment StoreEntitySet="Role">
+          <ScalarProperty Name="RoleID" ColumnName="RoleID" />
+          <ScalarProperty Name="RoleName" ColumnName="RoleName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Stage">
+      <EntityTypeMapping TypeName="DBDExamTestModel.Stage">
+        <MappingFragment StoreEntitySet="Stage">
+          <ScalarProperty Name="StageID" ColumnName="StageID" />
+          <ScalarProperty Name="StageName" ColumnName="StageName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Status">
+      <EntityTypeMapping TypeName="DBDExamTestModel.Status">
+        <MappingFragment StoreEntitySet="Status">
+          <ScalarProperty Name="StatusID" ColumnName="StatusID" />
+          <ScalarProperty Name="StatusName" ColumnName="StatusName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="User">
+      <EntityTypeMapping TypeName="DBDExamTestModel.User">
+        <MappingFragment StoreEntitySet="User">
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+          <ScalarProperty Name="UserFullName" ColumnName="UserFullName" />
+          <ScalarProperty Name="UserLogin" ColumnName="UserLogin" />
+          <ScalarProperty Name="UserPassword" ColumnName="UserPassword" />
+          <ScalarProperty Name="UserRoleID" ColumnName="UserRoleID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="7cd59c1779aa4fc284786faef3a43276" Name="Diagram1">
+        <EntityTypeShape EntityType="DBDExamTestModel.Equipment" Width="1.5" PointX="3" PointY="5.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBDExamTestModel.Priority" Width="1.5" PointX="3" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBDExamTestModel.Problem" Width="1.5" PointX="3" PointY="10.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBDExamTestModel.Request" Width="1.5" PointX="8.125" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBDExamTestModel.Role" Width="1.5" PointX="0.75" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBDExamTestModel.Stage" Width="1.5" PointX="3" PointY="12.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBDExamTestModel.Status" Width="1.5" PointX="3" PointY="15" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBDExamTestModel.User" Width="1.5" PointX="3" PointY="2.125" IsExpanded="true" />
+        <AssociationConnector Association="DBDExamTestModel.FK_Request_Equipment" ManuallyRouted="false" />
+        <AssociationConnector Association="DBDExamTestModel.FK_Request_Priority" ManuallyRouted="false" />
+        <AssociationConnector Association="DBDExamTestModel.FK_Request_Problem" ManuallyRouted="false" />
+        <AssociationConnector Association="DBDExamTestModel.FK_Request_Stage" ManuallyRouted="false" />
+        <AssociationConnector Association="DBDExamTestModel.FK_Request_Status" ManuallyRouted="true" >
+          <ConnectorPoint PointX="4.5" PointY="15.797841796875002" />
+          <ConnectorPoint PointX="8.2656212499999988" PointY="15.797841796875002" />
+          <ConnectorPoint PointX="8.2656212499999988" PointY="5.980205078125" />
+        </AssociationConnector>
+        <AssociationConnector Association="DBDExamTestModel.FK_Request_User" ManuallyRouted="false" />
+        <AssociationConnector Association="DBDExamTestModel.FK_User_Role" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
